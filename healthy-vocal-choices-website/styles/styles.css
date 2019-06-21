@@ -1,0 +1,51 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  background-color: #83E9F1;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+p {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 1.4;
+  }
+h1 {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 4em;
+    margin: 0;
+    padding: 20px 0;    
+    text-shadow: 3px 3px 1px white;
+}
+h2 {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 2em;
+    text-shadow: 3px 3px 1px white;
+}
+
+.acmed {
+  font-family: 'Acme', sans-serif;
+  line-height: 1.4;
+}
+
+.satisfied {
+  font-family: 'Satisfy', cursive;
+}
+
+.dosisd {
+  font-family: 'Dosis', sans-serif;
+  line-height: 1.4;
+}
+
+.centered-images {
+  display: block;
+  margin: 0 auto 0 auto;
+  padding: 1em;
+}
